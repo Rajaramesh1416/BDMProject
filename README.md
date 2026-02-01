@@ -2,9 +2,6 @@
 
 This repository contains a data-driven business analytics project focused on improving the day-to-day operations of Telangana Bellam Chai, a small-scale traditional jaggery tea outlet in Telangana, India. The project was developed as part of the BDM Capstone Project under the IIT Madras Online BS Degree Program 
 
-fc6f2d65-7718-43cc-a4d2-5d412cb…
-
-.
 
 # Project Overview
 
